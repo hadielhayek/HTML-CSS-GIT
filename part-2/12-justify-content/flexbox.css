@@ -5,5 +5,18 @@
 .countries--second .country {
   padding: 0.5em;
 }
-
+.countries--first{
+  justify-content: end;
+}
+.countries--second{
+  justify-content: space-between;
+}
+.countries--third{
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.countries--fourth{
+  justify-content: space-between;
+  flex-direction: column-reverse;
+}
 /* Add your own CSS code below */
