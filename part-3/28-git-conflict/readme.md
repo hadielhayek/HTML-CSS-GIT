@@ -97,7 +97,7 @@ Since these commits change the same line of code, git doesn't know which one is 
 Test the changes in your browser. If the links have been changed to a purple colour, you've resolved the merge conflict. Now you need to add and commit the files to complete the merge. Run the following commands:
 
 ```shell
-git add part-3/20-git-conflict/styles.css
+
 git commit -m "Merge purple_links branch"
 ```
 
